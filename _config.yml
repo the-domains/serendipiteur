@@ -1,0 +1,28 @@
+name: serendipiteur
+favicon: null
+layout_spectrum: 0.0012541841715574265
+typography_spectrum: 0.021119587356224656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8925699789542705
+  lightness: 0.8071412642020732
+  saturation: 0.91536123608239
+  rhythmicContrast: 0.5891378172673285
+purpose: []
