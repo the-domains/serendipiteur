@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[serendipiteur]]></title>
+        <description><![CDATA[serendipiteur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 18:17:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bon vent ! Et autres conseils de vie.]]></title>
+            <description><![CDATA[<article><h1>Bon vent ! Et autres conseils de vie.</h1><p>Lors de ma remise des diplômes en 2014, j'ai eu la chance d'assister à un discours (genre "Bon vent ! :-D) de [Louis Schweizer][1]. Faire un discours intéressant est une chose, faire un discours qui donne envie de se lancer en est une autre. Louis a choisi des mots justes, tout en restant humble pour ce rite de passage des temps modernes. Cette cérémonie des diplômes a marqué pour moi le passage dans la vie "adulte".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2e44a1-7f53-4f96-b742-4d1d93c17d94.png"></article>]]></description>
+            <link>undefinedbon-vent-et-autres-conseils-de-vie/index.html</link>
+            <guid isPermaLink="false">716b5326-0349-4e85-ac28-b0243001a802</guid>
+            <pubDate>Tue, 08 Mar 2016 18:17:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
